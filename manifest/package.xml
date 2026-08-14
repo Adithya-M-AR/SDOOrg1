@@ -12,4 +12,8 @@
         <members>TestKPI</members>
         <name>ActnblListKeyPrfmIndDef</name>
     </types>
+    <types>
+        <members>TestAccountSource</members>
+        <name>AdvAcctForecastDimSource</name>
+    </types>
 </Package>
