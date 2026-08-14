@@ -16,4 +16,8 @@
         <members>TestAccountSource</members>
         <name>AdvAcctForecastDimSource</name>
     </types>
+    <types>
+        <members>TestForecastPeriodGroup</members>
+        <name>AdvAcctForecastPeriodGroup</name>
+    </types>
 </Package>

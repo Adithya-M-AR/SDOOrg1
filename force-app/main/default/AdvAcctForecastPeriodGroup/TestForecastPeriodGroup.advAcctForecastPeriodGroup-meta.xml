@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvAcctForecastPeriodGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <forecastPeriodGroupName>Test Forecast Period Group</forecastPeriodGroupName>
+    <forecastPeriods>
+        <displayDuration>12</displayDuration>
+        <sequenceNumber>1</sequenceNumber>
+        <type>Quarter</type>
+    </forecastPeriods>
+    <startPeriod>-3</startPeriod>
+    <status>Active</status>
+</AdvAcctForecastPeriodGroup>
