@@ -32,4 +32,8 @@
         <members>TestBenefitAction</members>
         <name>BenefitAction</name>
     </types>
+    <types>
+        <members>TestCaseSubjectParticle</members>
+        <name>CaseSubjectParticle</name>
+    </types>
 </Package>
