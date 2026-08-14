@@ -8,4 +8,8 @@
         <members>AcctMgrTargetSettings</members>
         <name>AcctMgrTargetSettings</name>
     </types>
+    <types>
+        <members>TestKPI</members>
+        <name>ActnblListKeyPrfmIndDef</name>
+    </types>
 </Package>

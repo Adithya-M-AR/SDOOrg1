@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActnblListKeyPrfmIndDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <aggregateOperationName>COUNT</aggregateOperationName>
+    <description>Test KPI for ARM deployment validation</description>
+    <fieldName>Id</fieldName>
+    <masterLabel>Test KPI</masterLabel>
+    <objectName>Lead</objectName>
+    <status>ACTIVE</status>
+</ActnblListKeyPrfmIndDef>
