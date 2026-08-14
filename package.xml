@@ -20,4 +20,8 @@
         <members>TestForecastPeriodGroup</members>
         <name>AdvAcctForecastPeriodGroup</name>
     </types>
+    <types>
+        <members>Test_Agent_Evaluation</members>
+        <name>AiEvaluationDefinition</name>
+    </types>
 </Package>
