@@ -36,4 +36,8 @@
         <members>TestCaseSubjectParticle</members>
         <name>CaseSubjectParticle</name>
     </types>
+    <types>
+        <members>Knowledge__kav.SDO_Service_FAQ</members>
+        <name>ChannelLayout</name>
+    </types>
 </Package>
