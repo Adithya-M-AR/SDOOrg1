@@ -28,4 +28,8 @@
         <members>TestWorkspace</members>
         <name>AnalyticsWorkspace</name>
     </types>
+    <types>
+        <members>TestBenefitAction</members>
+        <name>BenefitAction</name>
+    </types>
 </Package>
