@@ -24,4 +24,8 @@
         <members>Test_Agent_Evaluation</members>
         <name>AiEvaluationDefinition</name>
     </types>
+    <types>
+        <members>TestWorkspace</members>
+        <name>AnalyticsWorkspace</name>
+    </types>
 </Package>

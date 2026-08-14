@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticsWorkspace xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Test workspace for ARM deployment validation</description>
+    <masterLabel>Test Workspace</masterLabel>
+</AnalyticsWorkspace>
