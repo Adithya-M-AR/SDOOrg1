@@ -41,6 +41,10 @@
         <name>BenefitAction</name>
     </types>
     <types>
+        <members>Harshit1CustomMetadata</members>
+        <name>CareProviderSearchConfig</name>
+    </types>
+    <types>
         <members>TestCaseSubjectParticle</members>
         <name>CaseSubjectParticle</name>
     </types>
